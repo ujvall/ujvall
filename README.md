@@ -16,7 +16,7 @@ Hii! I am Ujval, a 18-year-old UI/UX designer from India. In my idle time I love
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40" title="Photoshop" />
   <img src="https://cdn-icons-png.flaticon.com/512/9814/9814226.png" width="40" title="Premiere Pro" />
   <img src="https://cdn-icons-png.flaticon.com/512/9814/9814095.png" width="40" title="After Effects" />
-  <img src="https://camo.githubusercontent.com/4700ee8521320a435934f81f7370d822663c913d604c92fb4ee712752f7cf38f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61267468656d653d6461726b" width="40" title="Figma" />
+  <img src="https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="40" title="Figma" />
   <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="40" title="JavaScript" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" title="Python" />
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="40" title="C" />
