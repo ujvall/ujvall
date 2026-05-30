@@ -1,6 +1,6 @@
 # 📒 About Me
 
-Hii! I am Ujval, a 18-year-old UI/UX designer from India. In my idle time I love making music, Digital Art and 3d designs in blender for fun.
+A dynamic and Versatile UI/UX designer from India.
 
 ---
 
