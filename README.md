@@ -4,12 +4,6 @@ A dynamic and Versatile UI/UX designer from India.
 
 ---
 
-## 🌐 Social Media
-
-[![Discord](https://camo.githubusercontent.com/7f297c9ae500ca9def9ee5cf23c7905bc905a324850d4795edf12fcf55f0398c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646973636f7264267468656d653d6c69676874)](https://discord.com/)
-
-
-
 ## 🛠️ Skills
 
 <p align="left">
