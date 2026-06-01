@@ -1,6 +1,6 @@
 # 📒 About Me
 
-A dynamic and Versatile UI/UX designer from India.
+Full Stack Developer.
 
 ---
 
