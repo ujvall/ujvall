@@ -1,9 +1,8 @@
-<div style="background-color:#161b22;border-radius:10px;padding:24px 32px">
+<div style="background-color:#0f0f14;border-radius:10px;padding:24px 32px">
 
 `~$ aboutme/`
 
-Hey 👋
-I'm ujvall, a Full Stack Developer from India focused on Frontend & UI/UX.
+I'm ujval, a Full Stack Developer from India focused on Frontend & UI/UX.
 
 `~$ ls skills/`
 
