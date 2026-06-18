@@ -21,6 +21,8 @@ I'm ujval, a Full Stack Developer from India focused on Frontend & UI/UX.
 `Backend & Languages`
 
 <p>
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" />
